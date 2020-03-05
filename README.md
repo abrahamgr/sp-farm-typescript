@@ -48,3 +48,6 @@ It allow us to ru the command and continue working with the files without run ea
 `
 npm run watch
 `
+
+#### Notes
+If you plan to support IE you must use v1 of PnPjs and use polyfills provided from them.
