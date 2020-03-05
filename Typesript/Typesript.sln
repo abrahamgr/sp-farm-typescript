@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Typescript.Simple", "Typescript.Simple\Typescript.Simple.csproj", "{50D65499-0392-4156-8EE1-46C16CBBB83B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Typescript.Webpack", "Typescript.Webpack\Typescript.Webpack.csproj", "{41757C88-0068-4F5F-BFD4-757D0E5FAF8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50D65499-0392-4156-8EE1-46C16CBBB83B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D65499-0392-4156-8EE1-46C16CBBB83B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D65499-0392-4156-8EE1-46C16CBBB83B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{50D65499-0392-4156-8EE1-46C16CBBB83B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D65499-0392-4156-8EE1-46C16CBBB83B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50D65499-0392-4156-8EE1-46C16CBBB83B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{41757C88-0068-4F5F-BFD4-757D0E5FAF8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41757C88-0068-4F5F-BFD4-757D0E5FAF8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41757C88-0068-4F5F-BFD4-757D0E5FAF8D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{41757C88-0068-4F5F-BFD4-757D0E5FAF8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41757C88-0068-4F5F-BFD4-757D0E5FAF8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41757C88-0068-4F5F-BFD4-757D0E5FAF8D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF7DCA37-8C00-46FC-BACA-72AF538D97BD}
+	EndGlobalSection
+EndGlobal

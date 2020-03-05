@@ -1,0 +1,7 @@
+
+// Ignore .js and .map from src folder because everything is with typescript
+src/**/*.js
+src/**/*.map
+
+// Ignore definition files
+dist/**/*.d.ts

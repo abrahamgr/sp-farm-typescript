@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="StyleLibrary" Url="Style Library/Typescript.Simple">
+    <File Path="StyleLibrary\js\main.ts" Url="js/main.ts" Type="GhostableInLibrary" ReplaceContent="TRUE" Level="Published" />
+    <File Path="StyleLibrary\js\main.js" Url="js/main.js" Type="GhostableInLibrary" ReplaceContent="TRUE" Level="Published" />
+    <File Path="StyleLibrary\js\main.js.map" Url="js/main.js.map" Type="GhostableInLibrary" ReplaceContent="TRUE" Level="Published" />
+    <File Path="StyleLibrary\js\script.ts" Url="js/script.ts" Type="GhostableInLibrary" ReplaceContent="TRUE" Level="Published" />
+    <File Path="StyleLibrary\js\script.js" Url="js/script.js" Type="GhostableInLibrary" ReplaceContent="TRUE" Level="Published" />
+    <File Path="StyleLibrary\js\script.js.map" Url="js/script.js.map" Type="GhostableInLibrary" ReplaceContent="TRUE" Level="Published" />
+  </Module>
+</Elements>

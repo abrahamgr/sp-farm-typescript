@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="dist\" Type="ElementManifest" />
+    <ProjectItemFile Source="home.js" Target="dist\" Type="ElementFile" />
+    <ProjectItemFile Source="home.js.map" Target="dist\" Type="ElementFile" />
+    <ProjectItemFile Source="css\homestyle.css" Target="dist\css\" Type="ElementFile" />
+    <ProjectItemFile Source="css\main.css" Target="dist\css\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

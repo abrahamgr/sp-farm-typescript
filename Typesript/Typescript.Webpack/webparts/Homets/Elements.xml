@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="Homets" List="113" Url="_catalogs/wp">
+    <File Path="Homets\Homets.webpart" Url="Typescript.Webpack_Homets.webpart" Type="GhostableInLibrary" >
+      <Property Name="Group" Value="Typescript.Webpack" />
+    </File>
+  </Module>
+</Elements>

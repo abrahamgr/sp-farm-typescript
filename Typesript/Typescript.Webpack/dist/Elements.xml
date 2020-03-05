@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="dist" Url="Style Library/Typescript.Webpack">
+    <File Path="dist\home.js" Url="js/home.js" ReplaceContent="TRUE" Type="GhostableInLibrary" Level="Published" />
+    <File Path="dist\home.js.map" Url="js/home.js.map" ReplaceContent="TRUE" Type="GhostableInLibrary" Level="Published"/>
+    <File Path="dist\css\homestyle.css" Url="css/homestyle.css" ReplaceContent="TRUE" Type="GhostableInLibrary" Level="Published"/>
+    <File Path="dist\css\main.css" Url="css/main.css" ReplaceContent="TRUE" Type="GhostableInLibrary" Level="Published"/>
+  </Module>
+</Elements>

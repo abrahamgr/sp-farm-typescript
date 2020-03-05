@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "build": "gulp build",
+    "watch": "gulp watch"
+  },
+  "dependencies": {
+    "@pnp/common": "^2.0.3",
+    "@pnp/logging": "^2.0.3",
+    "@pnp/odata": "^2.0.3",
+    "@pnp/sp": "^2.0.3"
+  },
+  "devDependencies": {
+    "@types/sharepoint": "^2016.1.2",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.13.1",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.6.4",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  }
+}
