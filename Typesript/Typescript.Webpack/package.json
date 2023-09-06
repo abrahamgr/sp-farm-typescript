@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "@types/sharepoint": "^2016.1.11",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-sass": "^5.1.0",
     "node-sass": "^9.0.0",
     "sass": "^1.66.1",
