@@ -10,14 +10,14 @@
     "@pnp/sp": "^2.14.0"
   },
   "devDependencies": {
-    "@types/sharepoint": "^2016.1.10",
-    "gulp": "^4.0.2",
+    "@types/sharepoint": "^2016.1.11",
+    "gulp": "^3.9.1",
     "gulp-sass": "^5.1.0",
-    "node-sass": "^8.0.0",
-    "sass": "^1.59.3",
+    "node-sass": "^9.0.0",
+    "sass": "^1.66.1",
     "ts-loader": "^9.4.2",
-    "typescript": "^5.0.2",
-    "webpack": "^5.76.2",
-    "webpack-cli": "^5.0.1"
+    "typescript": "^5.2.2",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
   }
 }
